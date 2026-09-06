@@ -38,7 +38,7 @@
     "@types/node": "^26.4.0",
     "eslint": "^10.9.1",
     "typescript": "~6.0.3",
-    "typescript-eslint": "^8.68.0"
+    "typescript-eslint": "^8.69.0"
   },
   "overrides": {
     "path-to-regexp": "6.3.0"
